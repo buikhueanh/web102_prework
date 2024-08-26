@@ -28,10 +28,6 @@ Here's a walkthrough of implemented features:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap 
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [yyyy] [name of copyright owner]
